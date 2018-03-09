@@ -2,7 +2,7 @@
 
 This is my first attempt at an eyecandy theme/skin for the [rEFInd](http://www.rodsbooks.com/refind/) boot manager.
 
-[![screenshot of theme](https://gitlab.com/nathanchere/rEFInder/raw/master/meta/screenshot-1_0_thumb.jpg)](https://gitlab.com/nathanchere/rEFInder/raw/master/meta/screenshot-1_0.jpg)
+[![screenshot of theme](https://gitlab.com/nathanchere/rEFInd-classroom/raw/master/meta/screenshot-1_0_thumb.jpg)](https://gitlab.com/nathanchere/rEFInd-classroom/raw/master/meta/screenshot-1_0.jpg)
 
 Why?
 
