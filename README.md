@@ -42,7 +42,7 @@ If you want to run in 1920x1080 resolution with no manual boot entries, you're d
 
 * Font support
 * Media type badges (HDD, USB, optical disc)
-* Tools icons
+* Tools icons and small selection image
 * Simple labels (requires rEFInd patch)
 * Better font support (requires rEFInd patch)
 * Auto-detect icon support for more operating systems (requires rEFInd patch)
