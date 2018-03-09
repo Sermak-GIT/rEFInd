@@ -48,6 +48,7 @@ If you want to run in 1920x1080 resolution with no manual boot entries, you're d
 * Simple labels (requires rEFInd patch)
 * Better font support (requires rEFInd patch)
 * Auto-detect icon support for more operating systems (requires rEFInd patch)
+* Icon names to match naming convention of default theme (for auto-detect boot entries)
 
 ### v1.0
 
