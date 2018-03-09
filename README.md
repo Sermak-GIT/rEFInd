@@ -2,6 +2,8 @@
 
 This is my first attempt at an eyecandy theme/skin for the [rEFInd](http://www.rodsbooks.com/refind/) boot manager.
 
+![screenshot of theme](https://gitlab.com/nathanchere/rEFInder/raw/master/meta/screenshot-1_0.jpg)
+
 Why?
 
 1. Lack of interesting alternatives. There is 'minimal' and then there's just lazy and uninspired. If I'm going to bother having a graphical boot manager I want it to at least look nicer than generic icons over a flat or gradient background.
