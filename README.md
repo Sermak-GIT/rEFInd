@@ -2,7 +2,8 @@
 
 This is a fork of the [classroom rEFInd theme](https://www.reddit.com/r/unixporn/comments/838uh5/refind_classroom/) I stumbled upon here. [rEFInd](http://www.rodsbooks.com/refind/) is a boot manager.
 
-[![screenshot of theme](https://gitlab.com/nathanchere/rEFInd-classroom/raw/master/meta/screenshot-1_0_thumb.jpg)](https://gitlab.com/nathanchere/rEFInd-classroom/raw/master/meta/screenshot-1_0.jpg)
+ ![screengrab](https://github.com/Sermak-GIT/rEFInd/blob/master/screenshots/screenshot_001.bmp?raw=true)
+ note the very suble matrix in the background
 
 Why?
 
