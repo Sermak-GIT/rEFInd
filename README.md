@@ -3,11 +3,11 @@
 This is a fork of the [classroom rEFInd theme](https://www.reddit.com/r/unixporn/comments/838uh5/refind_classroom/) I stumbled upon here. [rEFInd](http://www.rodsbooks.com/refind/) is a boot manager.
 
  ![screengrab](https://github.com/Sermak-GIT/rEFInd/blob/master/screenshots/screenshot_001.bmp?raw=true)
- note the very suble matrix in the background
+ (note the very suble matrix in the background)
 
 Why?
 
-1. Before the classroom post I used an unispired theme with plain white icons on a dark background. But I wanted change.
+1. Before the classroom post I used an uninspired theme with plain white icons on a dark background. But I wanted change.
 
 2. I am using Arch and Windows as a dual boot on both my notebook and my desktop, so this duality aspect worked quite well.
 
